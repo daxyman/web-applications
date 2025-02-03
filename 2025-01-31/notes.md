@@ -1,0 +1,1 @@
+we focused on fucntions, how they interact with the back end and also API's focus on the notes she left, you do be kinda behind the others 

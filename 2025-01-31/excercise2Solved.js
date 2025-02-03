@@ -1,0 +1,4 @@
+const squishy = {
+    facecard: "lethal",
+    
+}
