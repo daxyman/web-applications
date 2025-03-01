@@ -8,7 +8,7 @@ function ListItems() {
         alt={alt} />
     <div>
         <h3>{props.titre}</h3>
-        <p>{props.desc}</p>
+        <p>{props.p}</p>
         </div>
         </div>
     </>
