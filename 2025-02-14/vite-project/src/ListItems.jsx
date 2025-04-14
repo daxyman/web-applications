@@ -4,13 +4,12 @@ function ListItems() {
   return (
     <>
       <div class="list-item">
-        <img src={props.image} 
-        alt={alt} />
-    <div>
-        <h3>{props.titre}</h3>
-        <p>{props.p}</p>
+        <img src={props.image} alt={alt} />
+        <div>
+          <h3>{props.titre}</h3>
+          <p>{props.p}</p>
         </div>
-        </div>
+      </div>
     </>
   );
 }
